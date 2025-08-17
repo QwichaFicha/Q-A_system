@@ -1,3 +1,16 @@
+# Data
+*.csv
+*.parquet
+*.json
+*.npy
+/data/
+
+# Models and weights
+*.pkl
+*.h5
+*.pt
+/models/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
